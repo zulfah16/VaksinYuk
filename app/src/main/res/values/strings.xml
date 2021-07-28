@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VaksinYuk</string>
+    <string name="nik">nik</string>
+    <string name="nama">nama</string>
+    <string name="alamat">alamat</string>
+    <string name="nohp">nohp</string>
+    <string name="save">save</string>
+    <string name="input_peserta">Form Input</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

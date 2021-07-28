@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "38034223917",
+    "project_id": "vaksinyuk-uas",
+    "storage_bucket": "vaksinyuk-uas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38034223917:android:a2e95d26517f2310a319a4",
+        "android_client_info": {
+          "package_name": "pnj.uas.ti.zulfahfauziah.vaksinyuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38034223917-l04ar8kp7fivemfhur2rcl5vckeiv1fm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pnj.uas.ti.zulfahfauziah.vaksinyuk",
+            "certificate_hash": "9a595f6ce2d5a9415d40639c20bd62670d7da1eb"
+          }
+        },
+        {
+          "client_id": "38034223917-2q14cce1h2d4th5u24krkb5b544u5k4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk7n-WJLdmJChw0CrSfhhFj6WZIwEZvzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38034223917-2q14cce1h2d4th5u24krkb5b544u5k4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
